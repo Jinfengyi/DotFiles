@@ -23,11 +23,7 @@ alias la='ls -a --color=auto'
 alias ls='ls -a --color=auto'
 alias rm='rm -i'
 #alias em='emacs -nw'
-alias setdisplay='source ~/local/bash/setdisplay.sh'
-#alias shsrv1='ssh jpuser1@192.168.38.201'
-#alias shsrv2='ssh jpuser1@192.168.38.202'
-alias shsrv1='ssh jin.fengyi@192.168.38.201'
-alias shsrv2='ssh jin.fengyi@192.168.38.202'
+
 alias em='~/.linuxbrew/bin/emacs --user "" -nw'
 #alias em='env TERM=xterm-256color emacs --user "" -nw'
 alias simvision='simvision -WAVES &'
@@ -35,7 +31,7 @@ alias simvision='simvision -WAVES &'
 export GIT_EDITOR=vim
 export SVN_EDITOR=vim
 
-source /eda/setup/setup.bash
+
 #export PS1='\[\e[32m\][\u@\h \W]\$ \[\e[0m\]'
 
 source ~/local/git/.git-completion.bash
