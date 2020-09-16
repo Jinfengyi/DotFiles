@@ -1,0 +1,10 @@
+Font=Lucida Console for Powerline
+CopyAsHTML=16908288
+MiddleClickAction=extend
+RightClickAction=paste
+ClickTargetMod=ctrl
+Scrollbar=none
+Term=xterm-256color
+BellType=0
+ClicksTargetApp=no
+FontHeight=10
